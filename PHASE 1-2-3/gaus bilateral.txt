@@ -1,0 +1,22 @@
+The Gaussian filter corresponds to isotropic diffusion (or the heat equation if you are familiar with it). 
+Its application to an image will blur it uniformly, whatever the image content, edges, etc.
+
+The bilateral filter is almost like a Gaussian filter, except that the Gaussian is modulated by a 
+function that computes the similarity between the central pixel (where the filter is applied) and 
+a pixel in its neighborhood (that is used in blurring).
+
+If the two pixel values are very close, it multiplies the Gaussian coefficient by something
+ close to 1, and hence it is equivalent to Gaussian filtering.
+If the pixel values are very different , it will multiply the Gaussian coefficient by a 
+number close to 0, thus turning off the Gaussian filtering for this pixel.
+
+Intuitively, this behaviour yields the following result: Gaussian filtering in uniform 
+areas of the image, no filtering across object borders. The bilateral filter will produce
+ a more pleasant results, because it will avoid the introduction of blur between objects
+ while still removing noise in uniform areas.
+
+
+
+
+
+WIKIP

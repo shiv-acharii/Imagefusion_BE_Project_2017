@@ -1,0 +1,23 @@
+PFA the papers:
+
+Check out these papers, get the full paper in our college library:
+
+1] [SCI-E] Minjae Kim, David K. Han, and Hanseok Ko, "Joint Patch Clustering-based Dictionary
+Learning for Multimodal Image Fusion",Information fusion, Vol.27, pp.198-214, Jan 2015.
+
+2] Minjae Kim, David K. Han, and Hanseok Ko, "Multimodal Image Fusion Via Sparse Representation
+With Local Patch Dictionaries", 2013 IEEE International Conference on Image Processing (ICIP),
+pp. 1301-1305, Melbourne, Australia, September 15-18, 2013
+
+3] Jeongmin Bae, Bonwha Ku, David K. Han, and Hanseok Ko, "Combining Infrared and Visible Images
+using Novel Transform and Statistical Information", IEEE Ninth International Conference on Advanced Video
+and Signal-Based Surveillance, pp.149-153, Beijing, China, September 18-21, 2012
+
+
+Following are the links:
+
+https://ispl.korea.ac.kr/xe/research4/33837
+
+or
+
+http://ispl.korea.ac.kr/Research/datafusion/ccdirfusion/homepage_CCD_IR_120229.htm
