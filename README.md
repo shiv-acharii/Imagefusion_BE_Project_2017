@@ -1,4 +1,4 @@
-# Imagefusion_BE_Project_2017
+# Imagefusion_BE_Project
 
 # OVERVIEW
 
